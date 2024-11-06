@@ -1,0 +1,2 @@
+The two uploaded Jupyter notebooks include one focused on direct modeling and the other on data balancing for training and testing. The results indicate that data balancing improves accuracy, with Random Forest emerging as the most suitable model for predictive maintenance based on the achieved performance.
+Link to dataset: https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
